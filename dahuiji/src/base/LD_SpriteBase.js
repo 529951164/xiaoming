@@ -1,1 +1,0 @@
-/** * Create By Liangdong * */var LD_SpriteBase = cc.Sprite.extend({})
