@@ -2,1138 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b46ab92a-117e-4815-9837-03404c9b64ed" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/cocos2d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/res/CloseNormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/res/CloseSelected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/res/DtMaps.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/res/DtMaps.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/res/HelloWorld.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/res/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/res/hair_sets.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/res/hair_sets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/res/parkour.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/src/myApp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HelloHTML5World/src/resource.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBAnimationManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBKeyframe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBReaderUtil.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBRelativePositioning.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBSequence.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCBValue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCControlLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCNodeLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCNodeLoaderLibrary.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCBReader/CCSpriteLoader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCEditBox/CCEditBox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CCEditBox/CCdomNode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Action/CCActionFrame.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Action/CCActionManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Action/CCActionNode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Action/CCActionObject.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/CCArmature.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/CCBone.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/animation/CCArmatureAnimation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/animation/CCProcessBase.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/animation/CCTween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/datas/CCDatas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/display/CCBatchNode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/display/CCDecorativeDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/display/CCDisplayFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/display/CCDisplayManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/display/CCSkin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/physics/CCColliderDetector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCArmatureDataManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCArmatureDefine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCDataReaderHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCSpriteFrameCacheHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCTransformHelp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCTweenFunction.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Armature/utils/CCUtilMath.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/CocoStudio.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComAttribute.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComAudio.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComRender.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComponent.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Components/CCComponentContainer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/BaseClasses/UIWidget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/Layouts/UILayout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/Layouts/UILayoutDefine.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/Layouts/UILayoutParameter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/System/CocosGUI.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/System/UIHelper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/System/UILayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/Compatible/CompatibleClasses.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/ScrollWidget/UIListView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/ScrollWidget/UIPageView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/ScrollWidget/UIScrollView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UIButton.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UICheckBox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UIImageView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UILabel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UILabelAtlas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UILabelBMFont.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UILoadingBar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UISlider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UISwitch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/GUI/UIWidgets/UITextField.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Reader/GUIReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Reader/SceneReader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Trigger/ObjectFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Trigger/TriggerBase.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Trigger/TriggerMng.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/CocoStudio/Trigger/TriggerObj.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlButton.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlColourPicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlHuePicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlPotentiometer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlSaturationBrightnessPicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlSlider.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlStepper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlSwitch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCControlUtils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCInvocation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCMenuPassive.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCControlExtension/CCScale9Sprite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCScrollView/CCScrollView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCScrollView/CCSorting.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/GUI/CCScrollView/CCTableView.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/plugins/SocialFacebook.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/plugins/SocialQQWeibo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/plugins/SocialQzone.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/plugins/SocialTwitter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/plugins/SocialWeibo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/Config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/PluginFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/PluginManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/PluginProtocol.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/PluginUtils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/protocols/ProtocolSocial.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/cocos2d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/CloseNormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/CloseSelected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/facebook.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/qqweibo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/qzone.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/snweibo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/res/twitter.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/src/MySocialManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/src/myApp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/PluginX/samples/HelloSocial/src/resource.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_bombPattern.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_bombPattern.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_buttonClick.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_buttonClick.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_clearPattern.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_clearPattern.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_game_fail.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_game_fail.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_game_pass.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_game_pass.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_ice.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_ice.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_noclear.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_noclear.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_timewarning.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_timewarning.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_unswap.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/effect_unswap.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/musicByFoxSynergy.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/audio/musicByFoxSynergy.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/cocos2d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/res/PatternBg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/res/ProgressBarBack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/res/ProgressBarFront.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/res/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/res/baseResource.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/res/baseResource.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/res/btn/btnStartGameDown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/res/btn/btnStartGameNor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/res/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/resultLayer/btnResultRestart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/resultLayer/btnResultRestartDown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/resultLayer/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/src/CCNotificationCenter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/src/GameData.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/src/Pattern.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/src/PatternMatrix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/src/ResultLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/FruitAttack/src/WelcomeLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/MoonWarriors-html5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/MoonWarriors-jsb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/Platform/OSX/English.lproj/InfoPlist.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/Platform/OSX/English.lproj/MoonWarriors.xib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/Platform/OSX/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/Platform/iOS/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/bgMusic.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/bgMusic.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/buttonEffet.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/buttonEffet.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/explodeEffect.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/explodeEffect.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/fireEffect.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/fireEffect.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/mainMainMusic.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/mainMainMusic.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/shipDestroyEffect.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/Music/shipDestroyEffect.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/arial-14.GlyphProject" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/arial-14.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/arial-14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/b01.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/b01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/cocos2d-html5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/explode.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/explosion.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/explosion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/flare.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/gameOver.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/level01.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/loading.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/menu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/menuTitle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/textureOpaquePack.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/textureOpaquePack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/textureTransparentPack.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/res/textureTransparentPack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/imgs/1024x768.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/imgs/1136x640.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/imgs/1280x720.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/imgs/480x320.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/imgs/800x480.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/imgs/854x480.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/imgs/960x540.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/imgs/960x640.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/imgs/device.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/imgs/play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/imgs/rotate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/simulator/js/miniFramework.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/AboutLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/Background.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/Bullet.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/Effect.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/Enemy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/Explosion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/GameControlMenu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/GameController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/GameLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/GameOver.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/HitEffect.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/LevelManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/Resource.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/SettingsLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/Ship.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/SparkEffect.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/SysMenu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/config/EnemyType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/config/GameConfig.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/games/MoonWarriors/src/config/Level.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ActionManagerTest/ActionManagerTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ActionsTest/ActionsTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/AdvanceCompiler/CocosBuilderCompiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/AdvanceCompiler/test_custom_externs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/BaseTestLayer/BaseTestLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/Box2dTest/Box2dTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ChipmunkTest/ChipmunkTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ClickAndMoveTest/ClickAndMoveTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ClippingNodeTest/ClippingNodeTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/ArmatureTest/ArmatureTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/CocoStudioTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/ComponentsTest/ComponentsTestScene.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/ComponentsTest/EnemyController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/ComponentsTest/GameOverScene.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/ComponentsTest/PlayerController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/ComponentsTest/ProjectileController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/ComponentsTest/SceneController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UIButtonTest/UIButtonTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UICheckBoxTest/UICheckBoxTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UIImageViewTest/UIImageViewTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UILabelAtlasTest/UILabelAtlasTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UILabelBMFontTest/UILabelBMFontTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UILabelTest/UILabelTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UILayoutTest/UILayoutTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UIListViewTest/UIListViewTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UILoadingBarTest/UILoadingBarTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UINodeContainerTest/UINodeContainerTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UIPageViewTest/UIPageViewTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UIScene.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UISceneManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UIScrollViewTest/UIScrollViewTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UISliderTest/UISliderTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/GUITest/UITextFieldTest/UITextFieldTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/SceneTest/SceneEditorTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/SceneTest/TriggerCode/Acts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/SceneTest/TriggerCode/Cons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocoStudioTest/SceneTest/TriggerCode/EventDef.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocosDenshionTest/CocosDenshionTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CocosNodeTest/CocosNodeTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/CurrentLanguageTest/CurrentLanguageTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/DrawPrimitivesTest/DrawPrimitivesTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/EaseActionsTest/EaseActionsTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/EffectsAdvancedTest/EffectsAdvancedTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/EffectsTest/EffectsTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/EventTest/EventTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/CocosBuilderTest/AnimationsTest/AnimationsTestLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/CocosBuilderTest/ButtonTest/ButtonTestLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/CocosBuilderTest/CocosBuilderTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/CocosBuilderTest/HelloCocosBuilder/HelloCocosBuilderLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/CocosBuilderTest/LabelTest/LabelTestLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/CocosBuilderTest/MenuTest/MenuTestLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/CocosBuilderTest/ParticleSystemTest/ParticleSystemTestLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/CocosBuilderTest/ScrollViewTest/ScrollViewTestLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/CocosBuilderTest/SpriteTest/SpriteTestLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/CocosBuilderTest/TestHeader/TestHeaderLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/CocosBuilderTest/TimelineCallbackTest/TimelineCallbackTestLayer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/ControlExtensionTest/CCControlButtonTest/CCControlButtonTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/ControlExtensionTest/CCControlColourPickerTest/CCControlColourPickerTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/ControlExtensionTest/CCControlPotentiometerTest/CCControlPotentiometerTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/ControlExtensionTest/CCControlScene.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/ControlExtensionTest/CCControlSceneManager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/ControlExtensionTest/CCControlSliderTest/CCControlSliderTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/ControlExtensionTest/CCControlStepperTest/CCControlStepperTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/ControlExtensionTest/CCControlSwitchTest/CCControlSwitchTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/EditBoxTest/EditBoxTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/ExtensionsTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/NetworkTest/WebSocketTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/S9SpriteTest/S9SpriteTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ExtensionsTest/TableViewTest/TableViewTestScene.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/FileUtils/FileUtilsTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/FileUtils/lookup-desktop.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/FileUtils/lookup-html5.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/FileUtils/lookup-mobile.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/FontTest/FontTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/IntervalTest/IntervalTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/LabelTest/LabelTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/LayerTest/LayerTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/MenuTest/MenuTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/MotionStreakTest/MotionStreakTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/OpenGLTest/OpenGLTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ParallaxTest/ParallaxTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ParticleTest/ParticleTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/PerformanceTest/PerformanceAnimationTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/PerformanceTest/PerformanceNodeChildrenTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/PerformanceTest/PerformanceParticleTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/PerformanceTest/PerformanceSpriteTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/PerformanceTest/PerformanceSpriteTest2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/PerformanceTest/PerformanceTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/PerformanceTest/PerformanceTextureTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/PerformanceTest/PerformanceTouchesTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/PerformanceTest/PerformanceVirtualMachineTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/PerformanceTest/seedrandom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/Presentation/Presentation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/ProgressActionsTest/ProgressActionsTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/RenderTextureTest/RenderTextureTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/RotateWorldTest/RotateWorldTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/SceneTest/SceneTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/SchedulerTest/SchedulerTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/SpineTest/SpineTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/SpriteTest/SpriteTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/SysTest/SysTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/TextInputTest/TextInputTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/TextureCacheTest/TextureCacheTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/TileMapTest/TileMapTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/TouchesTest/Ball.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/TouchesTest/Paddle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/TouchesTest/TouchesTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/TransitionsTest/TransitionsTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/UnitTest/UnitTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/XHRTest/XHRTest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/mobilePage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/CloseNormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/CocosBuilderExample.ccbproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/BoilingFoam.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/Fog.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/HelloWorld.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/Icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/SendScoreButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/SendScoreButtonPressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/arrows-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/arrowsBar-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/arrowsBar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/atlastest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/b1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/b2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/background1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/background2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/background3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/ball.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/blocks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/blocks9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/blocks9ss.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/blocks9ss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/btn-about-normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/btn-about-selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/btn-highscores-normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/btn-highscores-selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/btn-play-normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/btn-play-selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/bugs/RetinaDisplay.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/bugs/bug886.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/bugs/bug886.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/bugs/circle.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/bugs/circle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/bugs/corner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/bugs/edge.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/bugs/fill.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/bugs/picture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/cocos2dbanner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/f1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/f2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/fire.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/fps_images.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_07.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_08.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_09.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_atlas-mono.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_dance_atlas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_pvr_rgba4444.pvr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossini_pvr_rgba8888.pvr" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossinis_sister1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/grossinis_sister2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/hole_effect.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/hole_stencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/landscape-1024x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/menuitemsprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/movement.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/paddle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/particles-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/particles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/piece.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/powered.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/r1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/r2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/shapemode.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/snow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-0-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-0-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-0-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-0-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-0-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-0-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-0-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-0-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-1-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-1-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-1-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-1-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-1-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-1-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-1-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-1-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-2-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-2-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-2-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-2-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-2-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-2-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-2-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-2-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-3-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-3-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-3-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-3-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-3-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-3-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-3-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-3-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-4-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-4-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-4-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-4-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-4-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-4-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-4-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-4-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-5-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-5-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-5-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-5-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-5-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-5-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-5-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-5-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-6-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-6-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-6-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-6-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-6-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-6-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-6-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-6-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-7-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-7-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-7-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-7-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-7-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-7-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-7-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/sprites_test/sprite-7-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/spritesheet1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/stars-grayscale.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/stars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/stars2-grayscale.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/stars2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/streak.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/test_image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/texture1024x1024.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/texture512x512.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/texturemode.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/ui.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Images/ui.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/BoilingFoam.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/BurstPipe.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/Comet.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/ExplodingRing.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/Flower.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/Galaxy.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/LavaFlow.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/Phoenix.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/SmallSun.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/SpinningPeas.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/Spiral.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/SpookyPeas.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/TestPremultipliedAlpha.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/Upsidedown.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Particles/debian.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Presentation/chipmunk_status.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Presentation/cocos2d_status.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Presentation/cocosbuilder_status.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Presentation/comparison.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Presentation/gdkaccelerator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Presentation/html5accelerator.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Presentation/proxy_model.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Presentation/stack.graffle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Blur.fsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_ColorBars.fsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_ColorBars.vsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Flower.fsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Flower.vsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Heart.fsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Heart.vsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Julia.fsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Julia.vsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Mandelbrot.fsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Mandelbrot.vsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Monjori.fsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Monjori.vsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Plasma.fsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Plasma.vsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Twist.fsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Shaders/example_Twist.vsh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Sound/background-music-aac.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Sound/background.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Sound/background.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Sound/effect2.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Sound/effect2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/Sound/pew-pew-lei.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/fixed-ortho-test2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/hexa-test.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/hexa-tiles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso-test-bug787.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso-test-movelayer.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso-test-objectgroup.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso-test-vertexz.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso-test-zorder.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso-test.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso-test.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso-test1.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso-test2-uncompressed.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso-test2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso-test2.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/iso.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/levelmap.tga" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/ortho-objects.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/ortho-rotation-test.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/ortho-test1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/ortho-test1_bw.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/ortho-test2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/ortho-tile-property.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test-movelayer.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test-vertexz.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test-zorder.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test1.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test1.tsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test2.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test3.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test4-hd.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test4.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test5.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test6-hd.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/orthogonal-test6.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/test-object-layer.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/tile_iso_offset.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/tile_iso_offset.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/tiles-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/tiles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/tmw_desert_spacing-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/TileMaps/tmw_desert_spacing.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/animations-2.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/animations.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/crystals.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/crystals.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/dragon_animation-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/dragon_animation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/ghosts.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/ghosts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini-aliases.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini-aliases.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini.plist.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini.zss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini.ztp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini_blue.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini_family.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini_family.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini_gray.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/grossini_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/tcc_issue_1.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/tcc_issue_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/tcc_issue_2.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/animations/tcc_issue_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/Cowboy.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/Cowboy.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/Cowboy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/Cowboy0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/Cowboy0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/Dragon.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/Dragon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/Dragon.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/HeroAnimation.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/HeroAnimation0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/HeroAnimation0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/TestBone.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/TestBone0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/TestBone0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/bear.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/bear0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/bear0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/blood.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/cyborg.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/cyborg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/cyborg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/guide_beating.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/guide_beating.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/guide_beating.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/hero.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/hero0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/hero0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/heropk.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/heropk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/heropk.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/horse.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/horse0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/horse0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/knight.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/knight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/knight.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/logo.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/logo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/robot.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/robot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/robot.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/testEasing.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/testEasing0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/testEasing0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/weapon.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/weapon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/armatures/weapon.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/HelloCocosBuilder.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/HelloCocosBuilder.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/animated-grossini.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/animated-grossini.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/btn-a-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/btn-a-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/btn-a-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/btn-b-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/btn-b-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/btn-b-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/btn-back-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/btn-back-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/btn-test-0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/btn-test-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/btn-test-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/burst.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestAnimations.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestAnimations.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestAnimationsSub.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestAnimationsSub.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestButtons.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestButtons.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestHeader.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestHeader.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestLabels.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestLabels.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestMenus.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestMenus.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestParticleSystems.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestParticleSystems.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestScrollViews.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestScrollViews.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestScrollViewsContentA.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestScrollViewsContentA.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestSprites.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestSprites.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestTimelineCallback.ccb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccb/TestTimelineCallback.ccbi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/ccbParticleStars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/comic andy.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/fileLookup.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/flower.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/gem-0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/gem-1.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/grossini-generic.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/grossini-generic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/jungle-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/jungle-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/jungle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/logo-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/markerfelt24shadow.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/markerfelt24shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/particle-fire.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/particle-smoke.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/particle-snow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/particle-stars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/ccb/scale-9-demo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/CloseNormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/CloseSelected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/CocoGUISample.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/CocoGUI_PageView_Sample.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/Hello.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/Marker Felt.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/UITest/UITest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/UITest/b1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/UITest/b2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/UITest/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/UITest/buttonBackground.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/UITest/f1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/UITest/f2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/UITest/r1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/UITest/r2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/UITest/ribbon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/animationbuttonnormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/animationbuttonpressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/b11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/backtotopnormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/backtotoppressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/bitmapFontTest2.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/bitmapFontTest2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/buttonHighlighted.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/ccicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/check_box_active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/check_box_active_disable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/check_box_active_press.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/check_box_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/check_box_normal_disable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/check_box_normal_press.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/Test/UIResForEditor/Button/button_country_n.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/Test/UIResForEditor/Button/button_country_p.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/Test/UIResForEditor/Button/button_country_un.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/Test/UIResForEditor/Button/symbol_1B.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/Test/UIResForEditor/Button/symbol_1a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/Test/UIResForEditor/Button/symbol_1c.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/button_end_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/button_end_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/button_green_n2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/button_green_p2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/button_green_un2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/crab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/research.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/sell.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/shop_shield_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/shop_shield_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/shop_shield_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/train.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/equip/eg/upgrade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/examples.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/weapon_introduce/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/weapon_introduce/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/weapon_introduce/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/weapon_introduce/button_end_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/weapon_introduce/button_end_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/weapon_introduce/weapon_item_1/weapon_item/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/weapon_introduce/weapon_item_1/weapon_item/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/weapon_introduce/weapon_item_1/weapon_item/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/examples/weapon_introduce/weapon_item_1/weapon_item_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/green_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/grossini-aliases.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/UIAction_1/CocoStudio_UIEditor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/UIAction_1/UIAction_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/buy_1/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/buy_1/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/buy_1/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/buy_1/buttonHighlighted.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/buy_1/buy_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/button_end_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/button_end_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/button_green_n2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/button_green_p2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/button_green_un2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/crab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/research.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/sell.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/shop_shield_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/shop_shield_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/shop_shield_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/train.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip/eg/upgrade.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/equip_1/equip_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/map_1/image_castle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/map_1/map_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/map_1/map_pve.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/map_alert_1/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/map_alert_1/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/map_alert_1/close_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/map_alert_1/close_03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/map_alert_1/close_04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/map_alert_1/map_alert_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/page_1/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/page_1/buttonBackground.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/page_1/page_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/page_1/page_content/CocoStudio_AnimationEditor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/page_1/page_content/CocoStudio_DataEditor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/page_1/page_content/CocoStudio_SceneEditor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/page_1/page_content/CocoStudio_UIEditor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/page_1/ribbon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/page_1/teehanlax - iOS 6 - iPhone_check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/page_1/teehanlax - iOS 6 - iPhone_check01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/register_1/128_128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/register_1/Rosewood stdloadingH.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/register_1/Rosewood stdloadingH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/register_1/button_d.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/register_1/button_n.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/register_1/e-mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/register_1/register_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/register_1/ui_shop_005-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_introduce/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_introduce/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_introduce/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_introduce/button_end_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_introduce/button_end_02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_introduce_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapon_item/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapon_item/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapon_item/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapon_item_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/gui_examples/weapon_introduce_1/weapon_item_1/weapons/weapons_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/labelatlas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/loadingbar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/scrollviewbg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/slidbar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/sliderProgress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/sliderProgress2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/sliderThumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/sliderTrack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/sliderTrack2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/slider_bar_active_9patch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/sliderballnormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/cocosgui/sliderballpressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/components/Player.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/components/Projectile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/components/Target.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/CCControlColourPickerSpriteSheet.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/CCControlColourPickerSpriteSheet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/buttonBackground.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/buttonHighlighted.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/green_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/orange_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/potentiometerButton.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/potentiometerProgress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/potentiometerTrack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/ribbon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/sliderProgress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/sliderProgress2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/sliderThumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/sliderTrack.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/sliderTrack2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/stepper-minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/stepper-plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/switch-mask.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/switch-off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/switch-on.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/switch-thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/extensions/yellow_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/A Damn Mess.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/Abberancy.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/Abduction.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/American Typewriter.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/Courier New.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/Courier New.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/Marker Felt.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/Paint Boy.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/Schwarzwald Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/Schwarzwald_Regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/Scissor Cuts.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/Thonburi.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/Thonburi.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/ThonburiBold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/ThonburiBold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/arial-unicode-26.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/arial-unicode-26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/arial.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/arial16.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/arial16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontChinese.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontChinese.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontTest.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontTest.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontTest2.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontTest2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontTest3.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontTest3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontTest4.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontTest4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontTest5.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/bitmapFontTest5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/font-issue1343-hd.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/font-issue1343.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/fps_images-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/fps_images.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/futura-48.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/futura-48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/geneva-32.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/helvetica-32.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/helvetica-geneva-32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/konqa32-hd.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/konqa32-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/konqa32.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/konqa32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/larabie-16-hd.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/larabie-16-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/larabie-16.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/larabie-16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/markerFelt-hd.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/markerFelt-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/markerFelt.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/markerFelt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/tahoma.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/tuffy_bold_italic-charmap-hd.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/tuffy_bold_italic-charmap-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/tuffy_bold_italic-charmap.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/tuffy_bold_italic-charmap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/west_england-64.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/fonts/west_england-64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/ArmatureComponentTest/ArmatureComponentTest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/ArmatureComponentTest/Images/startMenuBG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/ArmatureComponentTest/fishes/Butterflyfish/Butterflyfish.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/ArmatureComponentTest/fishes/Butterflyfish/Butterflyfish0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/ArmatureComponentTest/fishes/Butterflyfish/Butterflyfish0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/ArmatureComponentTest/fishes/blowFish/Blowfish.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/ArmatureComponentTest/fishes/blowFish/Blowfish0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/ArmatureComponentTest/fishes/blowFish/Blowfish0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/AttributeComponentTest/AttributeComponentTest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/AttributeComponentTest/PlayerAttribute.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/AttributeComponentTest/grossinis_sister1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/AttributeComponentTest/grossinis_sister2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/BackgroundComponentTest/BackgroundComponentTest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/BackgroundComponentTest/Images/startMenuBG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/BackgroundComponentTest/Misc/music_logo.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/BackgroundComponentTest/Misc/music_logo.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/BackgroundComponentTest/Particles/qipao01.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/BackgroundComponentTest/Particles/qipao01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/BackgroundComponentTest/startMenu/Fish_UI/starMenuButton01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/BackgroundComponentTest/startMenu/Fish_UI/starMenuButton02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/BackgroundComponentTest/startMenu/Fish_UI/ui_logo_001-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/BackgroundComponentTest/startMenu/startMenu_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/EffectComponentTest/CowBoy/Cowboy.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/EffectComponentTest/CowBoy/Cowboy0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/EffectComponentTest/CowBoy/Cowboy0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/EffectComponentTest/EffectComponentTest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/EffectComponentTest/pew-pew-lei.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/FishJoy2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/Images/startMenuBG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/Misc/music_logo.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/Misc/music_logo.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/Particles/qipao01.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/Particles/qipao01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/fishes/Butterflyfish/Butterflyfish.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/fishes/Butterflyfish/Butterflyfish0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/fishes/Butterflyfish/Butterflyfish0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/fishes/blowFish/Blowfish.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/fishes/blowFish/Blowfish0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/fishes/blowFish/Blowfish0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/startMenu/Fish_UI/starMenuButton01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/startMenu/Fish_UI/starMenuButton02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/startMenu/Fish_UI/ui_logo_001-hd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/LoadSceneEdtiorFileTest/startMenu/startMenu_1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/ParticleComponentTest/ParticleComponentTest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/ParticleComponentTest/SmallSun.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/ParticleComponentTest/Upsidedown.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/SpriteComponentTest/SpriteComponentTest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/SpriteComponentTest/grossinis_sister1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/SpriteComponentTest/grossinis_sister2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/TmxMapComponentTest/TmxMapComponentTest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/TmxMapComponentTest/iso-test.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/TmxMapComponentTest/iso-test.tmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/TriggerTest/Images/startMenuBG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/TriggerTest/TriggerTest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/TriggerTest/fishes/Butterflyfish/Butterflyfish.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/TriggerTest/fishes/Butterflyfish/Butterflyfish0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/TriggerTest/fishes/Butterflyfish/Butterflyfish0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/TriggerTest/fishes/blowFish/Blowfish.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/TriggerTest/fishes/blowFish/Blowfish0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/TriggerTest/fishes/blowFish/Blowfish0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/UIComponentTest/Images/startMenuBG.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/UIComponentTest/UIComponentTest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/UIComponentTest/fishes/Butterflyfish/Butterflyfish.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/UIComponentTest/fishes/Butterflyfish/Butterflyfish0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/UIComponentTest/fishes/Butterflyfish/Butterflyfish0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/UIComponentTest/fishes/blowFish/Blowfish.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/UIComponentTest/fishes/blowFish/Blowfish0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/UIComponentTest/fishes/blowFish/Blowfish0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/UIComponentTest/starMenuButton/starMenuButton.ExportJson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/UIComponentTest/starMenuButton/starMenuButton0.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/scenetest/UIComponentTest/starMenuButton/starMenuButton0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/skeletons/spineboy.atlas" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/skeletons/spineboy.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/res/skeletons/spineboy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/tests-boot-html5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/tests-boot-jsb-for-obfuscation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/tests-boot-jsb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/tests-main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/tests_resources-html5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/tests/tests_resources-jsb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/cocos2d-jsb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/cocos2d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/res/HD/CloseNormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/res/HD/CloseSelected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/res/HD/HelloWorld.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/res/Normal/CloseNormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/res/Normal/CloseSelected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/res/Normal/HelloWorld.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/res/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/src/myApp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/src/resource.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头1.png" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头2.png" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头3.png" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头4.png" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头5.png" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头6.png" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头7.png" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/头7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/标题.png" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/标题.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/门把手.png" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/res/Normal/门把手.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_Progress.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_Progress.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/Pc.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/Pc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/Welcome.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/Welcome.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/cocos2d.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/cocos2d.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/main.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/resource.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/resource.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/base/utils.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/base/utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xiaoming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1156,10 +30,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Door.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Door.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="4" selection-start="2038" selection-end="2038" vertical-scroll-proportion="0.0" vertical-offset="1465" max-vertical-offset="2323">
+            <state line="78" column="42" selection-start="2075" selection-end="2075" vertical-scroll-proportion="0.6353341" vertical-offset="1233" max-vertical-offset="2369">
               <folding />
             </state>
           </provider>
@@ -1168,7 +42,16 @@
       <file leaf-file-name="GameScene.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="4" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="1564">
+            <state line="8" column="14" selection-start="262" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="1610">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="9" selection-start="2245" selection-end="2250" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="1587">
               <folding />
             </state>
           </provider>
@@ -1183,10 +66,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameLayer.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="GameLayer.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="0" selection-start="4140" selection-end="4140" vertical-scroll-proportion="0.33333334" vertical-offset="3252" max-vertical-offset="4485">
+            <state line="87" column="38" selection-start="2029" selection-end="2029" vertical-scroll-proportion="0.0" vertical-offset="1476" max-vertical-offset="4738">
               <folding />
             </state>
           </provider>
@@ -1195,7 +78,7 @@
       <file leaf-file-name="Xiaoming.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="6" selection-start="987" selection-end="987" vertical-scroll-proportion="0.0" vertical-offset="1035" max-vertical-offset="2530">
+            <state line="92" column="0" selection-start="2404" selection-end="2404" vertical-scroll-proportion="0.0" vertical-offset="1647" max-vertical-offset="2599">
               <folding />
             </state>
           </provider>
@@ -1204,7 +87,7 @@
       <file leaf-file-name="LD_RunTime.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="34" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0" vertical-offset="828" max-vertical-offset="2185">
+            <state line="96" column="17" selection-start="2119" selection-end="2132" vertical-scroll-proportion="0.0" vertical-offset="1587" max-vertical-offset="2714">
               <folding />
             </state>
           </provider>
@@ -1213,7 +96,7 @@
       <file leaf-file-name="Welcome.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Welcome.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="115" column="0" selection-start="3228" selection-end="3228" vertical-scroll-proportion="0.0" vertical-offset="2645" max-vertical-offset="3335">
+            <state line="77" column="36" selection-start="2064" selection-end="2064" vertical-scroll-proportion="0.0" vertical-offset="1366" max-vertical-offset="3358">
               <folding />
             </state>
           </provider>
@@ -1232,15 +115,6 @@
         <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Progress.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="22" column="50" selection-start="512" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="1196">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LD_Progress.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_Progress.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="42" selection-start="1361" selection-end="1367" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="2162">
               <folding />
             </state>
           </provider>
@@ -1271,13 +145,13 @@
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/main.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Progress.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/resource.js" />
+        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/base/utils.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js" />
+        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Welcome.js" />
-        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js" />
-        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js" />
-        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/base/utils.js" />
+        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js" />
       </list>
     </option>
   </component>
@@ -1611,7 +485,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="22" width="1601" height="1031" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1619,7 +493,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21864952" sideWeight="0.67069155" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.2129528" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1304" y="492" width="941" height="521" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.2129528" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="928" y="439" width="941" height="521" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1688,11 +562,6 @@
         <state line="104" column="0" selection-start="3242" selection-end="3242" vertical-scroll-proportion="0.0" vertical-offset="1554" max-vertical-offset="13409" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="75" selection-start="1537" selection-end="1537" vertical-scroll-proportion="0.0" vertical-offset="690" max-vertical-offset="1587" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Progress.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="50" selection-start="512" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="1196">
@@ -1714,41 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="34" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0" vertical-offset="290" max-vertical-offset="2185">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="382" max-vertical-offset="1564">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Welcome.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="0" selection-start="3228" selection-end="3228" vertical-scroll-proportion="0.0" vertical-offset="2332" max-vertical-offset="3335">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="6" selection-start="987" selection-end="987" vertical-scroll-proportion="0.0" vertical-offset="704" max-vertical-offset="2530">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="4" selection-start="2038" selection-end="2038" vertical-scroll-proportion="0.0" vertical-offset="1465" max-vertical-offset="2323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/utils.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="2" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1150">
@@ -1756,9 +590,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="17" selection-start="2119" selection-end="2132" vertical-scroll-proportion="0.0" vertical-offset="1587" max-vertical-offset="2714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="0" selection-start="2404" selection-end="2404" vertical-scroll-proportion="0.0" vertical-offset="1647" max-vertical-offset="2599">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="9" selection-start="2245" selection-end="2250" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="1587">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="14" selection-start="262" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="1610">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Welcome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="36" selection-start="2064" selection-end="2064" vertical-scroll-proportion="0.0" vertical-offset="1366" max-vertical-offset="3358">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="0" selection-start="4140" selection-end="4140" vertical-scroll-proportion="0.33333334" vertical-offset="3252" max-vertical-offset="4485">
+        <state line="87" column="38" selection-start="2029" selection-end="2029" vertical-scroll-proportion="0.0" vertical-offset="1476" max-vertical-offset="4738">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="42" selection-start="2075" selection-end="2075" vertical-scroll-proportion="0.6353341" vertical-offset="1233" max-vertical-offset="2369">
           <folding />
         </state>
       </provider>

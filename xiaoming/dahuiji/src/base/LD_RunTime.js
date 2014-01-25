@@ -4,9 +4,15 @@
 var LD_RunTime = cc.Node.extend({
 
     _time: null,
+
     _bind_target: null,
     _bind_selector: null,
     _bind_object: null,
+
+    _tick_target: null,
+    _tick_selector: null,
+    _tick_object: null,
+
     _time_current: null,  //计数
 
     ctor: function() {
@@ -68,6 +74,17 @@ var LD_RunTime = cc.Node.extend({
             return;
         }
         this.refTimeBar();
+        if(this._tick_object )
+        {
+            var index = this._tick_object.indexOf(this._time_current);
+            if(index >= 0)
+            {
+                if (this._tick_selector)
+                    this._tick_selector.call(this._tick_target);
+                this._tick_object.splice(index,1);
+            }
+
+        }
         --this._time_current;
     },
 
@@ -75,6 +92,12 @@ var LD_RunTime = cc.Node.extend({
         this._bind_target = target;
         this._bind_selector = sel;
         this._bind_object = object;
+    },
+
+    bindTickEvent: function(target, sel,object) {
+        this._tick_target = target;
+        this._tick_selector = sel;
+        this._tick_object = object;
     },
 
     emit: function () {

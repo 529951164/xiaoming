@@ -75,6 +75,7 @@ var GameOver = cc.Node.extend({
 
     again: function() {
         this.removeFromParent(true);
+        this._gameLayer.startGame();
     },
 
     win: function(s) {

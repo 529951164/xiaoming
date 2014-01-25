@@ -38,7 +38,7 @@ var GameLayer = cc.Layer.extend({
         //创建进度条
         this._lb = Progress.create();
         this._lb._name = "_lb";
-        this._lb.setPercent(100);
+
         this.addChild(this._lb);
 
         this._handState = true;
@@ -58,11 +58,6 @@ var GameLayer = cc.Layer.extend({
         //倒计时控件
         this._timeBar = LD_RunTime.create();
         this.addChild(this._timeBar);
-        this._timeBar.setTime(10);
-        this._timeBar.bind(this, this.gameOver);
-        this._timeBar.start();
-
-        this._missions = [];
 
         //test auto
         cc.AudioEngine.getInstance().playEffect(s_bgmp3, true);
@@ -89,14 +84,23 @@ var GameLayer = cc.Layer.extend({
     },
 
     startGame: function() {
+        this._lb.setPercent(10);
         this.schedule(this.update, 0);
         this._xiaoming.runHand(0.1);
         this.createMission();
+
+        this._timeBar.setTime(10);
+        this._timeBar.bind(this, this.gameOver);
+        this._timeBar.start();
     },
 
     gameOver: function(s) {
         var overPanel = GameOver.create(s);
         this.addChild(overPanel, 1000);
+        overPanel._gameLayer = this;
+        this.unschedule(this.update, 0);
+        this._xiaoming.runHand(false);
+        this._missions = [];
     },
 
     deviceMotionHandler: function(eventData) {
@@ -151,13 +155,20 @@ var GameLayer = cc.Layer.extend({
     },
 
     createMission: function() {
+        this._missions = [];
         var count = g_utils.getRandomNum(2,5);
         for(var i = 0; i <= count; i++)
         {
-            var rd = g_utils.getRandomNum(1,99,this._missions);
+            var rd = g_utils.getRandomNum(1,29,this._missions);
             this._missions.push(rd);
         }
         cc.log(this._missions.toString());
+        this._timeBar.bindTickEvent(this, this.doorOpen, this._missions);
+    },
+
+    doorOpen: function() {
+        var open = false;
+        open = this._door.doorReaOpen();
     },
 
     update: function (dt) {
@@ -173,11 +184,11 @@ var GameLayer = cc.Layer.extend({
             if(percent == 100)
                 this.gameOver(this._timeBar.getTime());
 
-            var open = false;
-            if(this._missions.indexOf(percent) > 0)
-                open = this._door.doorReaOpen();
-            if(open)
-                this._missions.splice(this._missions.indexOf(percent),1);
+//            var open = false;
+//            if(this._missions.indexOf(percent) > 0)
+//                open = this._door.doorReaOpen();
+//            if(open)
+//                this._missions.splice(this._missions.indexOf(percent),1);
 
         }
 

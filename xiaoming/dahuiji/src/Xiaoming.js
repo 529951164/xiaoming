@@ -90,6 +90,9 @@ var Xiaoming = cc.Sprite.extend({
 
     runHand: function(time) {
         this._hand.stopAllActions();
+
+        if(!time)
+            return
         this._handAnimation.setDelayPerUnit(time);
         this._hand.runAction(cc.RepeatForever.create(cc.Animate.create(this._handAnimation)));
     },

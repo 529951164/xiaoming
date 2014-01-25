@@ -61,3 +61,4 @@ var GameScene = cc.Scene.extend({
         this._gameLayer.update(dt);
     }
 });
+
