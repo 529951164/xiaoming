@@ -16,6 +16,7 @@ var LD_RunTime = cc.Node.extend({
     init: function() {
         this.config();
         this._time = cc.TextFieldTTF.create("", cc.size(150,50), cc.TEXT_ALIGNMENT_LEFT,"Arial", 32);
+        this._time.setColor(new cc.Color3B(0,0,0));
         this.addChild(this._time);
     },
 
@@ -30,6 +31,10 @@ var LD_RunTime = cc.Node.extend({
 
         this.stop();
         this._time_current = time;
+    },
+
+    getTime: function() {
+        return this._time_current;
     },
 
     refTimeBar: function() {

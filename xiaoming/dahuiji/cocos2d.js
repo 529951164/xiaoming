@@ -79,9 +79,12 @@
 
             'src/base/utils.js',
             'src/base/LD_RunTime.js',
+            'src/base/LD_Progress.js',
             'src/GameScene.js',
             'src/GameLayer.js',
+            'src/Welcome.js',
             'src/Xiaoming.js',
+            'src/Progress.js',
             'src/Door.js',
             'src/Pc.js',
 
