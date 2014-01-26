@@ -84,6 +84,8 @@ var Xiaoming = cc.Sprite.extend({
             this._head.runAction(this._Animations[index]);
             if(index > 0)
                 this.runHand(0.04 * (1/(index-index/900)));
+
+            cc.AudioEngine.getInstance().playEffect("res/muc/" + (index+1) + "级换阶段声.wav", false);
         }
 
     },

@@ -58,11 +58,39 @@ var s_win2 = "15-20秒结果.png";
 var s_win3 = "20-25秒结果.png";
 var s_win4 = "25-30秒结果.png";
 
+var s_s1 = "射1.png";
+var s_s2 = "射2.png";
+var s_s3 = "射3.png";
+var s_s4 = "射4.png";
+var s_s5 = "射5.png";
+var s_s6 = "射6.png";
+
+var s_big_eq1 = "大一库1.png";
+var s_big_eq2 = "大一库2.png";
+var s_little_eq = "小一库.png";
+
 var s_lose = "失败.png";
 
-var s_bgmp3 = "res/Normal/background.mp3";
+var s_bgmp3 = "res/muc/背景音乐.mp3";
+var s_1 = "res/muc/1级换阶段声.wav";
+var s_2 = "res/muc/2级换阶段声.wav";
+var s_3 = "res/muc/3级换阶段声.wav";
+var s_4 = "res/muc/4级换阶段声.wav";
+var s_5 = "res/muc/5级换阶段声.wav";
+var s_6 = "res/muc/6级换阶段声.wav";
+var s_7 = "res/muc/7级换阶段声.wav";
+var s_win = "res/muc/除了失败的结束.wav";
+var s_eqsound = "res/muc/平时的叫声.wav";
+var s_she = "res/muc/射.wav";
+var s_news = "res/muc/新闻联播开场曲.mp3";
+var s_avs = "res/muc/AV.wav";
+var s_mother = "res/muc/妈妈吃惊.wav";
+var s_littleeqs = "res/muc/新录音.m4a";
+var s_littleeq2s = "res/muc/新录音2.m4a";
 
 var g_resources = [
+
+
     //image
     {src:s_title},
     {src:s_htp},
@@ -115,10 +143,32 @@ var g_resources = [
     {src:s_win4},
     {src:s_lose},
 
+    {src:s_s1},
+    {src:s_s2},
+    {src:s_s3},
+    {src:s_s4},
+    {src:s_s5},
+    {src:s_s6},
+    {src:s_big_eq1},
+    {src:s_big_eq2},
+    {src:s_little_eq},
     //mp3
     {src:s_bgmp3},
-
-
+    {src:s_1},
+    {src:s_2},
+    {src:s_3},
+    {src:s_4},
+    {src:s_5},
+    {src:s_6},
+    {src:s_7},
+    {src:s_win},
+    {src:s_eqsound},
+    {src:s_she},
+    {src:s_news},
+    {src:s_avs},
+    {src:s_mother},
+    {src:s_littleeqs},
+    {src:s_littleeq2s}
     //plist
 
     //fnt

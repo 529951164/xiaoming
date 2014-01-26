@@ -21,14 +21,15 @@ var LD_RunTime = cc.Node.extend({
 
     init: function() {
         this.config();
-        this._time = cc.TextFieldTTF.create("", cc.size(150,50), cc.TEXT_ALIGNMENT_LEFT,"Arial", 32);
-        this._time.setColor(new cc.Color3B(0,0,0));
+        this._time = cc.TextFieldTTF.create("", cc.size(100,100), cc.TEXT_ALIGNMENT_LEFT,"Arial", 80);
+        this._time.setColor(new cc.Color3B(255,0,0));
+        g_utils.setPPS(this, cc.p(512,700), cc.p(0.5,0.5));
         this.addChild(this._time);
     },
 
     config: function() {
         this._name = "RunTime";
-        g_utils.setPPS(this, cc.p(500,700), cc.p(0,0), cc.size(150, 50));
+
     },
 
     setTime: function (time) {

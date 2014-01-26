@@ -4,10 +4,14 @@
     <list default="true" id="b46ab92a-117e-4815-9837-03404c9b64ed" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/Pc.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/Pc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/Progress.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/Progress.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/Welcome.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/Welcome.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/cocos2d.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/cocos2d.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xiaoming/dahuiji/src/resource.js" afterPath="$PROJECT_DIR$/xiaoming/dahuiji/src/resource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xiaoming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,28 +34,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Door.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Door.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="42" selection-start="2075" selection-end="2075" vertical-scroll-proportion="0.6353341" vertical-offset="1233" max-vertical-offset="2369">
+            <state line="83" column="68" selection-start="2331" selection-end="2331" vertical-scroll-proportion="-22.08" vertical-offset="1357" max-vertical-offset="2760">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameScene.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js">
+      <file leaf-file-name="GameLayer.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="14" selection-start="262" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="1610">
+            <state line="266" column="59" selection-start="7590" selection-end="7590" vertical-scroll-proportion="0.57024795" vertical-offset="5635" max-vertical-offset="7705">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/main.js">
+      <file leaf-file-name="CCLabelTTF.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cocos2d/core/labelTTF/CCLabelTTF.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="9" selection-start="2245" selection-end="2250" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="1587">
+            <state line="176" column="4" selection-start="5910" selection-end="5910" vertical-scroll-proportion="0.0" vertical-offset="3099" max-vertical-offset="24748">
               <folding />
             </state>
           </provider>
@@ -60,34 +64,25 @@
       <file leaf-file-name="resource.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/resource.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="115" column="15" selection-start="2147" selection-end="2153" vertical-scroll-proportion="0.0" vertical-offset="1899" max-vertical-offset="3128">
+            <state line="87" column="15" selection-start="1900" selection-end="1911" vertical-scroll-proportion="0.0" vertical-offset="1738" max-vertical-offset="4278">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameLayer.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js">
+      <file leaf-file-name="CCMacro.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cocos2d/core/platform/CCMacro.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="38" selection-start="2029" selection-end="2029" vertical-scroll-proportion="0.0" vertical-offset="1476" max-vertical-offset="4738">
+            <state line="49" column="0" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="8211">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Xiaoming.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js">
+      <file leaf-file-name="CCTypes.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoming/cocos2d/core/platform/CCTypes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="0" selection-start="2404" selection-end="2404" vertical-scroll-proportion="0.0" vertical-offset="1647" max-vertical-offset="2599">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LD_RunTime.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="17" selection-start="2119" selection-end="2132" vertical-scroll-proportion="0.0" vertical-offset="1587" max-vertical-offset="2714">
+            <state line="125" column="4" selection-start="3881" selection-end="3881" vertical-scroll-proportion="0.0" vertical-offset="2041" max-vertical-offset="31694">
               <folding />
             </state>
           </provider>
@@ -96,16 +91,16 @@
       <file leaf-file-name="Welcome.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Welcome.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="36" selection-start="2064" selection-end="2064" vertical-scroll-proportion="0.0" vertical-offset="1366" max-vertical-offset="3358">
+            <state line="96" column="49" selection-start="2417" selection-end="2417" vertical-scroll-proportion="0.0" vertical-offset="2133" max-vertical-offset="3588">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="utils.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/utils.js">
+      <file leaf-file-name="Pc.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Pc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="2" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1150">
+            <state line="15" column="19" selection-start="217" selection-end="223" vertical-scroll-proportion="-11.12" vertical-offset="67" max-vertical-offset="2208">
               <folding />
             </state>
           </provider>
@@ -114,7 +109,16 @@
       <file leaf-file-name="Progress.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Progress.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="50" selection-start="512" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="1196">
+            <state line="90" column="73" selection-start="2363" selection-end="2424" vertical-scroll-proportion="0.0" vertical-offset="1417" max-vertical-offset="2553">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LD_RunTime.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="51" selection-start="499" selection-end="522" vertical-scroll-proportion="0.0" vertical-offset="313" max-vertical-offset="2737">
               <folding />
             </state>
           </provider>
@@ -140,18 +144,19 @@
       <list>
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/extensions/CocoStudio/GUI/UIWidgets/UILoadingBar.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_Progress.js" />
-        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Pc.js" />
-        <option value="$PROJECT_DIR$/xiaoming/dahuiji/cocos2d.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/main.js" />
-        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Progress.js" />
-        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/resource.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/base/utils.js" />
+        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js" />
-        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js" />
+        <option value="$PROJECT_DIR$/xiaoming/dahuiji/cocos2d.js" />
+        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/flyText.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Welcome.js" />
-        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js" />
+        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Pc.js" />
         <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js" />
+        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/resource.js" />
+        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/Progress.js" />
+        <option value="$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js" />
       </list>
     </option>
   </component>
@@ -187,6 +192,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -195,99 +201,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dahuiji" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dahuiji" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xiaoming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dahuiji" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -395,6 +310,9 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -416,9 +334,6 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -485,15 +400,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="22" width="1601" height="1031" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21864952" sideWeight="0.67069155" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.2129528" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="928" y="439" width="941" height="521" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21736334" sideWeight="0.67069155" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.2129528" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="928" y="215" width="941" height="855" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -517,124 +432,121 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/cocos2d/actions/CCActionInterval.js</url>
-          <line>820</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="21" />
+      <option name="time" value="25" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_Progress.js">
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="42" selection-start="1361" selection-end="1367" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="2162">
+        <state line="87" column="97" selection-start="2331" selection-end="2416" vertical-scroll-proportion="0.0" vertical-offset="1508" max-vertical-offset="2645">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/cocos2d/touch_dispatcher/CCTouchDispatcher.js">
+    <entry file="file://$PROJECT_DIR$/xiaoming/cocos2d/keyboard_dispatcher/CCKeyboardDispatcher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="692" column="0" selection-start="22976" selection-end="22976" vertical-scroll-proportion="0.0" vertical-offset="15082" max-vertical-offset="24150" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Pc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="104" selection-end="156" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2185">
+        <state line="179" column="35" selection-start="6105" selection-end="6105" vertical-scroll-proportion="0.0" vertical-offset="3257" max-vertical-offset="4117">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/cocos2d.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="25" selection-start="4804" selection-end="4804" vertical-scroll-proportion="0.0" vertical-offset="1564" max-vertical-offset="3220">
+        <state line="91" column="60" selection-start="4953" selection-end="4953" vertical-scroll-proportion="0.0" vertical-offset="1522" max-vertical-offset="3243">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/cocos2d/core/cocoa/CCGeometry.js">
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/flyText.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="0" selection-start="3242" selection-end="3242" vertical-scroll-proportion="0.0" vertical-offset="1554" max-vertical-offset="13409" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Progress.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="50" selection-start="512" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="1196">
+        <state line="27" column="8" selection-start="572" selection-end="858" vertical-scroll-proportion="0.0" vertical-offset="92" max-vertical-offset="1104">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_Progress.js">
+    <entry file="file://$PROJECT_DIR$/cocos2d/core/platform/CCTypes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="42" selection-start="1361" selection-end="1367" vertical-scroll-proportion="0.0" vertical-offset="299" max-vertical-offset="2162">
+        <state line="1262" column="22" selection-start="39386" selection-end="39405" vertical-scroll-proportion="0.0" vertical-offset="28353" max-vertical-offset="31694">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/resource.js">
+    <entry file="file://$PROJECT_DIR$/xiaoming/cocos2d/core/base_nodes/CCNode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="15" selection-start="2147" selection-end="2153" vertical-scroll-proportion="0.0" vertical-offset="1899" max-vertical-offset="3128">
+        <state line="2249" column="36" selection-start="82907" selection-end="82907" vertical-scroll-proportion="0.0" vertical-offset="51008" max-vertical-offset="53383">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/utils.js">
+    <entry file="file://$PROJECT_DIR$/xiaoming/cocos2d/core/platform/CCTypes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="2" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1150">
+        <state line="125" column="4" selection-start="3881" selection-end="3881" vertical-scroll-proportion="0.0" vertical-offset="2041" max-vertical-offset="31694">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/core/platform/CCMacro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="8211">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos2d/core/labelTTF/CCLabelTTF.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="176" column="4" selection-start="5910" selection-end="5910" vertical-scroll-proportion="0.0" vertical-offset="3099" max-vertical-offset="24748">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/base/LD_RunTime.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="17" selection-start="2119" selection-end="2132" vertical-scroll-proportion="0.0" vertical-offset="1587" max-vertical-offset="2714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Xiaoming.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="0" selection-start="2404" selection-end="2404" vertical-scroll-proportion="0.0" vertical-offset="1647" max-vertical-offset="2599">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="9" selection-start="2245" selection-end="2250" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="1587">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/GameScene.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="262" selection-end="272" vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="1610">
+        <state line="24" column="51" selection-start="499" selection-end="522" vertical-scroll-proportion="0.0" vertical-offset="313" max-vertical-offset="2737">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Welcome.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="36" selection-start="2064" selection-end="2064" vertical-scroll-proportion="0.0" vertical-offset="1366" max-vertical-offset="3358">
+        <state line="96" column="49" selection-start="2417" selection-end="2417" vertical-scroll-proportion="0.0" vertical-offset="2133" max-vertical-offset="3588">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js">
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Pc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="38" selection-start="2029" selection-end="2029" vertical-scroll-proportion="0.0" vertical-offset="1476" max-vertical-offset="4738">
+        <state line="15" column="19" selection-start="217" selection-end="223" vertical-scroll-proportion="-11.12" vertical-offset="67" max-vertical-offset="2208">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Door.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="42" selection-start="2075" selection-end="2075" vertical-scroll-proportion="0.6353341" vertical-offset="1233" max-vertical-offset="2369">
+        <state line="83" column="68" selection-start="2331" selection-end="2331" vertical-scroll-proportion="-22.08" vertical-offset="1357" max-vertical-offset="2760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/Progress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="73" selection-start="2363" selection-end="2424" vertical-scroll-proportion="0.0" vertical-offset="1417" max-vertical-offset="2553">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="15" selection-start="1900" selection-end="1911" vertical-scroll-proportion="0.0" vertical-offset="1738" max-vertical-offset="4278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xiaoming/dahuiji/src/GameLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="266" column="59" selection-start="7590" selection-end="7590" vertical-scroll-proportion="0.57024795" vertical-offset="5635" max-vertical-offset="7705">
           <folding />
         </state>
       </provider>

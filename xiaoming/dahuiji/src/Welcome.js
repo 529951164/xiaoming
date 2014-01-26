@@ -32,8 +32,8 @@ var Welcome = cc.Node.extend({
         this._howToPlay.addChild(infoMenu);
         g_utils.setPPS(infoMenu, cc.p(this._howToPlay.getContentSize().width/2,this._howToPlay.getContentSize().height/7), cc.p(0.5,0.5));
         this._titleLayer.runAction(cc.Sequence.create(
-//            cc.DelayTime.create(2),
-            cc.MoveBy.create(1,cc.p(-1024,0))
+            cc.DelayTime.create(2),
+            cc.MoveBy.create(2,cc.p(-1024,0))
         ));
     },
 
@@ -45,10 +45,11 @@ var Welcome = cc.Node.extend({
     startGame: function() {
         this._howToPlay.setVisible(false);
         this._gameLayer.startGame();
-    },
+    }
 
 
 });
+
 Welcome.create = function() {
     var obj = new Welcome();
     obj.init();
@@ -74,8 +75,12 @@ var GameOver = cc.Node.extend({
     },
 
     again: function() {
-        this.removeFromParent(true);
         this._gameLayer.startGame();
+        this._gameLayer.removeChild(this);
+
+
+//        this.removeFromParent();
+
     },
 
     win: function(s) {
@@ -106,8 +111,13 @@ var GameOver = cc.Node.extend({
 
         var infoMenu = cc.Menu.create(arginBtn);
         this._win.addChild(infoMenu);
-        this._win.setPosition(cc.p(LD_winSize.getContentSize().width/2,LD_winSize.getContentSize().height/2));
+        this._win.setPosition(cc.p(LD_winSize.width/2,LD_winSize.height/2));
         g_utils.setPPS(infoMenu, cc.p(this._win.getContentSize().width/2,this._win.getContentSize().height/7), cc.p(0.5,0.5));
+
+        var useTime = cc.TextFieldTTF.create(s , cc.size(120,80), cc.TEXT_ALIGNMENT_LEFT,"Arial", 60);
+        useTime.setColor(new cc.Color3B(255,255,0));
+        g_utils.setPPS(useTime, cc.p(586,548), cc.p(0.5,0.5));
+        this._win.addChild(useTime);
     },
 
     lose: function() {
